@@ -1,0 +1,52 @@
+[
+{
+
+"title":"The call of the wild",
+"author":"Jack London",
+"genre":"Action and adventure",
+"img": "action1.jpg"
+},
+{
+"title":"To kill a mocking bird",
+"author":"Harper Lee",
+"genre":"Classics",
+"img": "1.jpg"
+},
+{
+"title":"The three musketeers",
+"author":"Alexandre Dumas",
+"genre":"Action and adventure",
+"img": "action2.jpg"
+},
+{
+"title":"Life of Pie",
+"author":"Yann Martel",
+"genre":"Action and adventure",
+"img": "action3.jpg"
+},
+
+{
+"title":"Watchmen",
+"author":"Alan Moore",
+"genre":"Comics",
+"img": "4.jpg"
+},
+{
+"title":"Beloved",
+"author":"Toni Morrison",
+"genre":"Action and adventure",
+"img": "3.jpg"
+},
+{
+"title":"The boy, the mole, the fox, and the horse",
+"author":"Charlie Mackesy",
+"genre":"Graphic Novel",
+"img": "5.jpg"
+},
+{
+"title":"Little women",
+"author":"Louisa May Alcott",
+"genre":"Classics",
+"img": "2.jpg"
+}
+]  
